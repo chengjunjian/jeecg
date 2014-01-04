@@ -1,4 +1,4 @@
-JEECG 智能开发平台
+JEECG 微云快速开发平台
 ===============
 
 前言：
@@ -109,7 +109,7 @@ JEECG 功能特点
 技术交流
 -----------------------------------
 * 	作者：张代浩</br>
-* 	邮箱：zhangdaiscott@163.com
+* 	邮箱：jeecg@sina.com
 * 	论坛：[www.jeecg.org](http://www.jeecg.org)
 * 	交流群:106259349, 106838471, 289782002</br>
 * 	在线演示: [JEECG演示DEMO](http://demo.jeecg.org:8080/)
